@@ -1,0 +1,16 @@
+# Table of contents
+
+* [Getting Started](README.md)
+  * [Web3 Wallet](getting-started/web3-wallet.md)
+  * [Mint NFT](getting-started/mint-nft.md)
+  * [Dance and Earn](getting-started/dance-and-earn.md)
+  * [MCH Trading](getting-started/mch-trading.md)
+  * [Earn more MCHs](getting-started/earn-more-mchs.md)
+* [Tokenomics](tokenomics/README.md)
+  * [Token Allocation](tokenomics/token-allocation.md)
+  * [MCH yield](tokenomics/mch-yield.md)
+  * [Demand and Supply](tokenomics/demand-and-supply.md)
+* [NFTs](nfts.md)
+* [Video Creation](video-creation.md)
+* [Exchange Listing](exchange-listing.md)
+* [Changelogs](changelogs.md)
